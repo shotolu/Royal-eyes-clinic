@@ -1,0 +1,153 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 100%;
+	margin: 5px auto;
+	border: 1px solid black;
+}
+
+
+.head{
+	width: 100%;
+	background-color: #002121;
+	height: 65px;
+}
+
+.head .home_link{
+	text-decoration: none;
+}
+
+.head h2{
+	font-family: cursive;
+	font-size: 20px;
+	color: #fff;
+	float: left;
+	padding-top: 35px;
+}
+
+.head h4{
+	font-family: cursive;
+	font-size: 13px;
+	color: #fff;
+	float: left;
+    padding-top: 45px;
+}
+
+.head .head-nav{
+     float: right;
+     color: #fff;
+     font-family: helvetica;
+     font-size: 13px;
+     text-decoration: none;
+     padding-left: 2px;
+     padding-right: 25px;
+     padding-top: 43px;
+     transition: all .5s ease;
+}
+
+.head .head-nav:hover{
+	color: black;
+	transition: all .5s ease;
+}
+
+.body h4{
+  font-size: 20px;
+  font-family: arial;
+  color: #002121;
+  padding-left: 20px;
+  padding-top: 15px;
+}
+
+.body p{
+	font-size: 15px;
+	font-family: sans-serif;
+	padding: 10px 10px 10px 30px;
+}
+
+
+
+.bottom{
+    width: 100%;
+	margin: 5px auto;
+}
+
+.bottom .contact h4{
+	font-family: arial;
+	font-size: 17px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+.bottom .contact p{
+	font-family: sans-serif;
+	font-size: 15px;
+	padding: 10px 10px 10px 30px;
+}
+
+.bottom .contact div{
+	height: 40px;
+	width: 40px;
+	float:left;
+}
+
+
+.c1{
+	margin-left: 35%;
+	background-image: url(images/facebook.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+   }
+
+ .c2{
+	margin-left: 10px;
+	background-image: url(images/twitter.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.c3{
+	margin-left: 10px;
+	background-image: url(images/instagram.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.b2{
+	clear: both;
+}
+
+.contact input{
+	margin-top: 10px;
+}
+
+.contact .email{
+	margin-left: 30%;
+}
+
+.contact .submit{
+	margin-left: 40%;
+	background-color: #002121;
+	color: #fff;
+	border: none;
+	width: 70px;
+	height: 40px;
+}
+
+.footer{
+	width: 100%;
+	margin-top: -3px;
+	height: 20px;
+	background-color: black;
+}
+
+.footer p{
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+}

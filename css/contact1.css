@@ -1,0 +1,211 @@
+@media screen and (min-width: 200px)
+{
+	.container{
+        width: 100%;
+        max-width: 580px;
+	}
+
+	.head .head-nav{
+     font-size: 12px;
+    }
+
+ 
+}
+
+
+
+@media screen and (min-width: 600px)
+{
+	.container{
+		max-width: 750px;
+        width: 100%;
+	}
+
+	.head h2{
+		font-size: 30px;
+		padding-top: 20px;
+		padding-left: 10px;
+	}
+
+	.head h4{
+		font-size: 15px;
+		padding-top: 35px;
+	}
+
+	.head .head-nav{
+     font-size: 15px;
+     padding-left: 10px;
+     padding-right: 40px;
+     padding-top: 40px;
+     transition: all .5s ease;
+   }
+
+.body h3{
+ 	font-size: 25px;
+ }
+
+ .body p{
+ 	font-size: 20px;
+ }
+
+ .bottom .contact h4{
+ 	font-size: 25px;
+ }
+
+.c1{
+	margin-left: 38%;
+}
+ .bottom .contact p{
+ 	font-size: 20px;
+ }
+
+ .contact .email{
+	margin-left: 30%;
+	width: 250px;
+}
+
+.contact .submit{
+	margin-left: 43%;
+	background-color: #002121;
+	color: #fff;
+	border: none;
+	width: 70px;
+	height: 40px;
+}
+
+ 
+}
+
+
+
+@media screen and (min-width: 750px)
+{
+	.container{
+		max-width: 1000px;
+        width: 100%;
+	}
+
+	.head{
+		height: 67px;
+	}
+
+	.head h2{
+		font-size: 40px;
+		padding-top: 10px;
+		padding-left: 40px;
+	}
+
+	.head h4{
+		font-size: 25px;
+		padding-top: 25px;
+	}
+
+	.head .head-nav{
+     font-size: 20px;
+     padding-left: 20px;
+     padding-right: 40px;
+     padding-top: 35px;
+     transition: all .5s ease;
+   }
+.body h4{
+ 	font-size: 30px;
+ }
+
+ .body p{
+ 	font-size: 25px;
+ }
+
+ .bottom .contact h4{
+ 	font-size: 30px;
+ }
+
+ .bottom .contact p{
+ 	font-size: 25px;
+ }
+
+ .c1{
+ 	margin-left: 42%;
+ }
+
+ .contact .email{
+	margin-left: 35%;
+	width: 300px;
+	height: 40px;
+}
+
+.contact .submit{
+	margin-left: 46%;
+	background-color: #002121;
+	color: #fff;
+	border: none;
+	width: 70px;
+	height: 40px;
+}
+}
+
+
+@media screen and (min-width: 1000px)
+{
+	.container{
+		max-width: 1500px;
+        width: 100%;
+	}
+
+	.head h2{
+		font-size: 40px;
+		padding-top: 10px;
+		padding-left: 40px;
+	}
+
+	.head h4{
+		font-size: 25px;
+		padding-top: 25px;
+	}
+
+	.head .head-nav{
+     font-size: 20px;
+     padding-left: 20px;
+     padding-right: 40px;
+     padding-top: 35px;
+     transition: all .5s ease;
+   }
+ 
+ .body h4{
+ 	font-size: 32px;
+ 	padding-left: 50px;
+ }
+
+ .body p{
+ 	font-size: 27px;
+ 	padding-left: 80px;
+ }
+
+.bottom .contact h4{
+ 	font-size: 32px;
+ 	padding-left: 50px;
+ }
+
+ .bottom .contact p{
+ 	font-size: 27px;
+ 	padding-left: 80px;
+ }
+
+ .c1{
+ 	margin-left: 45%;
+ }
+
+ .contact .email{
+	margin-left: 37%;
+	width: 300px;
+	height: 40px;
+}
+
+.contact .submit{
+	margin-left: 46%;
+	background-color: #002121;
+	color: #fff;
+	border: none;
+	width: 70px;
+	height: 40px;
+}
+}
